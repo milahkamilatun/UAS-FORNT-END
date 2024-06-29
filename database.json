@@ -1,0 +1,70 @@
+{
+  "product": [
+    {
+      "id": "07e1",
+      "image": "bakso.jpe",
+      "name": "Bakso",
+      "keterangan": "Lorem Ipsunn...",
+      "price": "10000",
+      "category": "Makanan"
+    },
+    {
+      "id": "ce9a",
+      "image": "jus.jfif",
+      "name": "dgfh",
+      "keterangan": "ryrw",
+      "price": "56788",
+      "category": "Minuman"
+    },
+    {
+      "id": "6e83",
+      "image": "bakso.jpe",
+      "name": "sfg",
+      "keterangan": "fhjg",
+      "price": "4568",
+      "category": "Makanan"
+    },
+    {
+      "id": "335a",
+      "image": "jus.jfif",
+      "name": "eryut",
+      "keterangan": "rutu",
+      "price": "5657",
+      "category": "Minuman"
+    },
+    {
+      "id": "e7cb",
+      "image": "jus.jfif",
+      "name": "Jus",
+      "keterangan": "Enakk & Manis",
+      "price": "809",
+      "category": "Minuman"
+    },
+    {
+      "id": "bfb5",
+      "image": "jus.jfif",
+      "name": "Jus",
+      "keterangan": "Enakk & Manis",
+      "price": "100000",
+      "category": "Minuman"
+    },
+    {
+      "id": "9c6d",
+      "image": "blob:http://127.0.0.1:5501/79888298-d59a-460e-ab69-2e1f9e6f9cec",
+      "name": "Jus",
+      "keterangan": "Enakk & Manis",
+      "price": "100000",
+      "category": "Minuman"
+    }
+  ],
+  "category": [
+    {
+      "id": "0295",
+      "name": "Minuman"
+    },
+    {
+      "id": "c670",
+      "name": "Makanan"
+    }
+  ]
+}
